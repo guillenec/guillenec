@@ -6,5 +6,9 @@
     <p>Comencé en el área de la informática reparando computadoras y de a poco fui adentrándome en la programación web; En pandemia terminando mi carrera universitaria y a medida me acercaba mas al fin de la misma, paralelamente comencé con desarrollo web; realice un curso de full stack, lo que hizo que me termine enamorando de ese ambiente, comunidad y profeción.</p>
     <p>En github soy bastante nuevo realmente, por lo que de apoco iré subiendo mis nuevos proyectos, los que tengo guardado y con los que comence en esto.. <strong>Espero te gusrte mi contenido<stong/></p>
     
-    <h3>en progreso de finalizar portda...</h3>
 <div>
+    
+<section>
+    <h3>en progreso de finalizar portda...</h3>
+    <img  height="150px" src="https://res.cloudinary.com/dpiwmbsog/image/upload/v1667461454/icons/pinguino05_e24mtr.gif" alt="">
+</section>
