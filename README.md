@@ -4,6 +4,7 @@
     <h2>Mi nombre es Guillermo y estoy incursionando en el desarrollo web.</h2>
     <p>Soy técnico universitario en Administración de Sistemas y Software Libre <strong>🐧🐧🐧</strong>...</p>
     <p>Comencé en el área de la informática reparando computadoras y de a poco fui adentrándome en la programación web; En pandemia terminando mi carrera universitaria y a medida me acercaba mas al fin de la misma, paralelamente comencé con desarrollo web; realice un curso de full stack, lo que hizo que me termine enamorando de ese ambiente, comunidad y profeción.</p>
+    <p>Actualmente me sigo formando en <a href="https://www.coderhouse.com/" target="_blank"> @coderhouse</a>.</p>
     <p>En github soy bastante nuevo realmente, por lo que de apoco iré subiendo mis nuevos proyectos, los que tengo guardado y con los que comence en esto.. <strong>Espero te gusrte mi contenido<stong/></p>
     
 <div>
