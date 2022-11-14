@@ -10,6 +10,6 @@
 <div>
     
 <section>
-    <h3>en progreso de finalizar portda...</h3>
+    <h3>en progreso de finalizar la portada...</h3>
     <img  height="150px" src="https://res.cloudinary.com/dpiwmbsog/image/upload/v1667461454/icons/pinguino05_e24mtr.gif" alt="">
 </section>
