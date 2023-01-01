@@ -13,14 +13,11 @@ En github soy bastante nuevo realmente, por lo que de apoco iré subiendo mis nu
 ## 👍 Espero te guste. 
 Espero sea de tu agrado mi contenido, tratare de tener todo publico siempre... si te sirve mi contenido no dudes en compartirlo, pero referenciame xD.
 
-<br>
-
 ## :octocat: Mi contacto
 #### :bust_in_silhouette: [Guillermo Agustín Neculqueo](@guillenec)
 #### :house: [Homepage](https://procedilinux.netlify.app/index.html)	
 
 #### :envelope: [guillermoneculqueo@gmail](guillermoneculqueo@gmail.com)
 
-    
 <div>
     
