@@ -10,7 +10,7 @@ MI nombre es Guillermon, Estudié Administración de Sistemas y Software Libre �
 Soy nuevo en github, iré subiendo de a poco mis proyectos.. 
     
 ## 👍 Espero te guste. 
-Espero que mi contenido sea de tu agrado y estaré disponible para compartir conocimientos... si te es util mi contenido, por favor, referencia mi trabajo. ¡Gracias por tutiempo!.
+Espero que mi contenido sea de tu agrado y estaré disponible para compartir conocimientos... si te es util mi contenido, por favor, referencia mi trabajo. ¡Gracias por tu tiempo!.
 
 ## :octocat: Mi contacto
 #### :bust_in_silhouette: [Guillermo Agustín Neculqueo](@guillenec)
