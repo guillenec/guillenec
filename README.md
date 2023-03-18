@@ -4,13 +4,13 @@
     <p align="center" ><img width="90%" src="https://res.cloudinary.com/dpiwmbsog/image/upload/v1672557878/imgs/bannerGithub_kqq1ev.png" alt="banner stack guille"></p>
     </br>
     
-## 📚 Sobre mi. 
-MI nombre es Guillermon, Estudie Administración de Sistemas y Software Libre 🐧🐧🐧 y realicé en paralelo un curso de desarrollo web Full-Stack con PHP.</p>
+## 📚 Sobre mí. 
+MI nombre es Guillermon, Estudié Administración de Sistemas y Software Libre 🐧🐧🐧 y También realicé un curso de desarrollo web Full-Stack con PHP.</p>
 👨‍🎓 Actualmente me sigo formando en <a href="https://www.coderhouse.com/" target="_blank"> @coderhouse, donde estoy terminando la ruta de front en developer.</a>
 Soy nuevo en github, iré subiendo de a poco mis proyectos.. 
     
 ## 👍 Espero te guste. 
-Espero sea de tu agrado mi contenido, tratare de tener todo publico siempre... si te sirve mi contenido no dudes en compartirlo, pero referenciame xD.
+Espero que mi contenido sea de tu agrado y estaré disponible para compartir conocimientos... si te es util mi contenido, por favor, referencia mi trabajo. ¡Gracias por tutiempo!.
 
 ## :octocat: Mi contacto
 #### :bust_in_silhouette: [Guillermo Agustín Neculqueo](@guillenec)
