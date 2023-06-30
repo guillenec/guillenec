@@ -50,7 +50,7 @@ desarrollo Back-end.
 
 <img src="./img/mate.png" alt="Imagen de trabajo" align="left"  height="160px" >
 
-Actualmente estoy participando activamente en No Country para validar mi stack como front-end React. He completado la primera etapa y fui seleccionado para la segunda instancia, donde ya estamos trabajando en nuestro próximo proyecto llamado "truekiando". Esta será una aplicación web para intercambiar productos, permitiendo a los usuarios comunicarse directamente con la persona que ofrece un producto y llevar a cabo transacciones. Puedes seguir el progreso del proyecto en: ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+Actualmente estoy participando activamente en No Country para validar mi stack como front-end React. He completado la primera etapa y fui seleccionado para la segunda instancia, donde ya estamos trabajando en nuestro próximo proyecto llamado "truekiando". Esta será una aplicación web para intercambiar productos, permitiendo a los usuarios comunicarse directamente con la persona que ofrece un producto y llevar a cabo transacciones. Puedes seguir el progreso del proyecto en: [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/No-Country/s9-12-t-nest-react)
 
 </br>
 
