@@ -4,7 +4,7 @@
     
 
 ## Sobre mí 🧑‍💻 
-<img src="./img/gatito.gif" alt="Imagen de trabajo" height="150px" style="float: right;">
+<img src="./img/gatito.gif" alt="Imagen de trabajo" align="right"  height="150px">
 
 Soy Front-End Developer y Administrador De Sistemas.  
 Estudie en la Universidad del Comahue Administración de Sistemas y software libre.
@@ -48,7 +48,7 @@ desarrollo Back-end.
 ***
 ## Ultimos Desafios 🚀
 
-<img src="./img/mate.png" alt="Imagen de trabajo" height="160px" style="float: left;">
+<img src="./img/mate.png" alt="Imagen de trabajo" align="left"  height="160px" >
 
 Actualmente estoy participando activamente en No Country para validar mi stack como front-end React. He completado la primera etapa y fui seleccionado para la segunda instancia, donde ya estamos trabajando en nuestro próximo proyecto llamado "truekiando". Esta será una aplicación web para intercambiar productos, permitiendo a los usuarios comunicarse directamente con la persona que ofrece un producto y llevar a cabo transacciones. Puedes seguir el progreso del proyecto en: ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
