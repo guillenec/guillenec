@@ -54,6 +54,9 @@ Actualmente estoy participando activamente en No Country para validar mi stack c
 
 </br>
 
+### 📊 My Most Used Languages
+![Guillermo Neculqueo Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillenec&layout=compact)
+
 ***
 ## Espero te guste 😊 
 Espero que mi contenido sea de tu agrado, si te gusta lo que hago, dejame una ⭐. ¡Gracias por tu tiempo!.
