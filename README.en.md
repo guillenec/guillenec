@@ -28,6 +28,9 @@ Front-End Developer and IT Technician from Ingeniero Jacobacci, Rio Negro, Argen
 - **UNCo - University Degree in Web Programming** (4 courses left).
 - **IPAP Rio Negro - IT Infrastructure Support Degree** (2nd year).
 - **UNCo - Systems Administration and Free Software Degree** (completed).
+- **UTN Resistencia - Full Stack PHP Web Development Diploma**.
+- **Coderhouse - Front-End with React**.
+- Additional complementary certifications and courses in web development.
 
 ## Tech stack
 

@@ -28,6 +28,9 @@ Front-End Developer y Tecnico IT desde Ingeniero Jacobacci, Rio Negro, Argentina
 - **UNCo - Tecnicatura Universitaria en Programacion Web** (me faltan 4 materias).
 - **IPAP Rio Negro - Tecnicatura en Soporte de Infraestructura de TI** (2do año).
 - **UNCo - Tecnicatura en Administracion de Sistemas y Software Libre** (finalizada).
+- **UTN Resistencia - Diplomatura en Programacion Web Full Stack PHP**.
+- **Coderhouse - Front-End con React**.
+- Otras certificaciones y cursos complementarios en desarrollo web y programacion.
 
 ## Stack tecnico
 
