@@ -1,38 +1,44 @@
-# Guillermo Agustin Neculqueo | Front-End & IT 🧉🐧
+# Guillermo Agustin Neculqueo | Front-End e Infraestructura IT 🧉🐧
 
-Front-End Developer and IT Systems Technician from Ingeniero Jacobacci, Rio Negro, Argentina 🇦🇷.
+Front-End Developer y Tecnico IT desde Ingeniero Jacobacci, Rio Negro, Argentina 🇦🇷
 
-![Argentina](https://img.shields.io/badge/Based%20in-Argentina-75AADB?style=flat&logoColor=white)
-![Freelance](https://img.shields.io/badge/Work-Freelance-2C7A7B?style=flat&logoColor=white)
-![Role](https://img.shields.io/badge/Current%20Role-Referente%20TIC-1A202C?style=flat&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=111)
+> English version: [README.en.md](./README.en.md)
 
-## About me | Sobre mi
+![Argentina](https://img.shields.io/badge/Basado%20en-Argentina-75AADB?style=flat&logoColor=white)
+![Freelance](https://img.shields.io/badge/Trabajo-Freelance-2C7A7B?style=flat&logoColor=white)
+![Rol](https://img.shields.io/badge/Rol%20actual-Referente%20TIC-1A202C?style=flat&logoColor=white)
+![Linux](https://img.shields.io/badge/SO-Linux-FCC624?style=flat&logo=linux&logoColor=111)
 
-- I currently work as **Referente TIC** at **Escuela Especial 23 (EEE23)**.
-- I also work as a **freelancer** in web development and technical support.
-- I do private jobs for **PC and printer repair**.
-- I am focused on continuous growth in software and IT infrastructure.
+## Sobre mi
 
-## Featured projects | Proyectos destacados
+- Actualmente trabajo como **Referente TIC** en la **Escuela Especial 23 (EEE23)**.
+- Tambien me desempeño como **freelancer** en desarrollo web y soporte tecnico.
+- Realizo trabajos particulares de **reparacion de PC e impresoras**.
+- Me estoy formando de manera continua en desarrollo e infraestructura.
+
+## Proyectos destacados
 
 - **No Country - Video to Shorts App**  
-  Web app to trim videos, generate subtitles, create AI prompts, and publish shorts to YouTube.
-  - Repo: [S02-26-Equipo-04-Web-App-Development](https://github.com/No-Country-simulation/S02-26-Equipo-04-Web-App-Development)
-- **EEE23 Website (in progress)**  
-  Institutional website currently under development.
+  App web para recortar videos, generar subtitulos, crear prompts con IA y publicar shorts en YouTube.  
+  Repo: [S02-26-Equipo-04-Web-App-Development](https://github.com/No-Country-simulation/S02-26-Equipo-04-Web-App-Development)
+- **Web institucional EEE23** (en desarrollo).
 
-## Education in progress | Formacion actual
+## Formacion
 
-- **UNCo - Tecnicatura Universitaria en Programacion Web** (4 courses left).
-- **IPAP Rio Negro - Tecnicatura en Soporte de Infraestructura de TI** (2nd year).
+- **UNCo - Tecnicatura Universitaria en Programacion Web** (me faltan 4 materias).
+- **IPAP Rio Negro - Tecnicatura en Soporte de Infraestructura de TI** (2do año).
+- **UNCo - Tecnicatura en Administracion de Sistemas y Software Libre** (finalizada).
 
-## Tech stack
+## Stack tecnico
 
 `JavaScript` `React` `Next.js` `Vite` `Redux Toolkit` `Zustand` `Tailwind CSS` `Bootstrap`  
 `PHP` `SQL` `MySQL` `MariaDB` `Bash` `Linux` `Git` `GitHub` `GitLab` `Docker`
 
-## Contact
+## My Most Used Languages 📊
+
+![Guillermo Neculqueo Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guillenec&layout=compact)
+
+## Contacto
 
 - Email: **guillermoneculqueo@gmail.com**
 - LinkedIn: [guillermoagustinneculqueo](https://www.linkedin.com/in/guillermoagustinneculqueo)
@@ -41,4 +47,4 @@ Front-End Developer and IT Systems Technician from Ingeniero Jacobacci, Rio Negr
 
 ---
 
-Open to opportunities and collaborations in web development, IT support, and infrastructure automation. 🇦🇷
+Abierto a oportunidades y colaboraciones en desarrollo web, soporte IT y automatizacion de infraestructura. 🇦🇷
